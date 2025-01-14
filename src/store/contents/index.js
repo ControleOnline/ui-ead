@@ -20,7 +20,7 @@ export default {
         name: "id",
         align: "left",
         label: "id",
-        externalFilter: true,
+        externalFilter: false,
         to: function (value) {
           return {
             name: "contents",
