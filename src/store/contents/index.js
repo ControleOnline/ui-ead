@@ -8,6 +8,7 @@ export default {
   state: {
  item:{},
 items:[],
+filters:{},
     resourceEndpoint: "ead/contents",
     isLoading: false,
     error: "",
