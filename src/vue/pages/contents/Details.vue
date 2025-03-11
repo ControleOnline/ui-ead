@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Contents from "@controleonline/ui-ead/src/components/contents/Table";
+import Contents from "@controleonline/ui-ead/src/vue/components/contents/Table";
 
 export default {
   components: {
